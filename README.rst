@@ -1,6 +1,15 @@
+=====
+FORKED
+=====
+
+Forked from `PyCQA/docformatter`_ until `pre-commit bugfix`_ is released.
+
 ============
 docformatter
 ============
+.. _`PyCQA/docformatter`: https://github.com/PyCQA/docformatter/
+.. _`pre-commit bugfix`: https://github.com/PyCQA/docformatter/issues/293
+
 
 .. |CI| image:: https://img.shields.io/github/actions/workflow/status/PyCQA/docformatter/ci.yml?branch=master
     :target: https://github.com/PyCQA/docformatter/actions/workflows/ci.yml
